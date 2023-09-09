@@ -11,3 +11,7 @@ We are going to use radar pulses to image the ground. We send discrete pulses of
 When the pulse hits the ground, it reflects in many directions the part that comes back to the antenna is called "the back scatter" and if the back scatter is strong that's a bright pixel if it's weak that's a dark pixel.
 
 the pulse repetition frequency is the rate at which we send our our pulses to the ground for an aircraft we send many hundreds of pulses to the ground every second for a spacecraft.
+
+
+RADAR:
+RAdio Detection And Ranging.
