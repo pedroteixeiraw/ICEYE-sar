@@ -14,4 +14,4 @@ the pulse repetition frequency is the rate at which we send our our pulses to th
 
 
 RADAR:
-RAdio Detection And Ranging.
+RAdio Detection And Ranging, they send pulses of radio waves (or micro wave)  to iluminate potancial objects.
